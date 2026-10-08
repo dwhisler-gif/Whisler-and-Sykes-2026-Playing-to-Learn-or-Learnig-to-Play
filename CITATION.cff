@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it using the metadata below."
+authors:
+  - family-names: Whisler
+    given-names: D.
+  - family-names: Sykes
+    given-names: C.
+  - family-names: "Whisler and Sykes"
+    given-names: ""
+title: "Playing to Learn or Learning to Play"
+version: 0.1.0
+date-released: 2026-10-08
+url: "https://github.com/dwhisler-gif/Playing-to-Learn-or-Learnig-to-Play"
+abstract: >-
+  Public repository for the experimental materials, methods, analysis scripts,
+  and supplementary documentation associated with the Playing to Learn or Learning
+  to Play project.
+keywords:
+  - child-development
+  - learning
+  - play
+  - experimental-methods
+  - reproducibility
+  - research-archive
+license: MIT
