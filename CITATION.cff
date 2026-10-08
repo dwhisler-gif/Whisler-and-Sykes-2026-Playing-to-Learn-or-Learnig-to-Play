@@ -4,7 +4,7 @@ authors:
   - family-names: Whisler
     given-names: D.
   - family-names: Sykes
-    given-names: C.
+    given-names: J.
   - family-names: "Whisler and Sykes"
     given-names: ""
 title: "Playing to Learn or Learning to Play"
@@ -16,10 +16,12 @@ abstract: >-
   and supplementary documentation associated with the Playing to Learn or Learning
   to Play project.
 keywords:
-  - child-development
-  - learning
-  - play
-  - experimental-methods
-  - reproducibility
-  - research-archive
+-game-based language learning (GBLL)
+-incidental language acquisition
+-commercial-off-the-shelf (COTS) games
+-entertainment-first design
+-learner engagement profiles
+-form–meaning inference
+-diegetic language systems
+-constructed languages
 license: MIT
