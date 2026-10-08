@@ -16,12 +16,12 @@ abstract: >-
   and supplementary documentation associated with the Playing to Learn or Learning
   to Play project.
 keywords:
--game-based language learning (GBLL)
--incidental language acquisition
--commercial-off-the-shelf (COTS) games
--entertainment-first design
--learner engagement profiles
--form–meaning inference
--diegetic language systems
--constructed languages
+  - game-based language learning (GBLL)
+  - incidental language acquisition
+  - commercial-off-the-shelf (COTS) games
+  - entertainment-first design
+  - learner engagement profiles
+  - form–meaning inference
+  - diegetic language systems
+  - constructed languages
 license: MIT
