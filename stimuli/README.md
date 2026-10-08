@@ -10,5 +10,7 @@ This folder contains task materials, activity designs, visual stimulus files, an
 - `activity_materials/` — physical or digital materials used during activities
 
 ## Notes
+Credit to Sean Dante for development of the modification used in this experiment.
+https://www.nexusmods.com/tunic/mods/6?tab=posts
 
 Document how each stimulus or material file maps to conditions and trials.
